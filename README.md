@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianea2160)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Tianea2160/Tianea2160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
