@@ -11,6 +11,8 @@ Interested
  - Using with django, spring
  - Machine learning(with sklearn)
  - Web server(backend)
+ - 쿠버네티스
+ - Kotlin
 
 status
 ---
