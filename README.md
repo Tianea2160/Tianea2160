@@ -6,13 +6,20 @@ Introduce
  
  최근에는 사이킷런을 이용한 머신러닝과 rest api에 대해서 공부를 진행하고 있습니다.
  
+ 
+used language
+---
+* java(중)
+* kotlin(하)
+* python(하) 
+* c/c++(중)
+
+ 
 Interested
 ---
  - Using with django, spring
- - Machine learning(with sklearn)
  - Web server(backend)
- - 쿠버네티스
- - Kotlin
+ - kubernates
 
 status
 ---
