@@ -6,6 +6,8 @@ Introduce
  
  최근에는 사이킷런을 이용한 머신러닝과 rest api에 대해서 공부를 진행하고 있습니다.
  
+ notion : https://magical-fluorine-7a0.notion.site/STUDY-686ca7a716254353aa6bf5330c38cb0c
+
  
 used language
 ---
