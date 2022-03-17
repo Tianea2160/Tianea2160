@@ -4,7 +4,7 @@ Introduce
  
  개발 속도가 빠른 것보다 그 원리를 이해하고 코드 하나하나에 그 이유를 생각하고 가지려고 노력하는 중입니다.
  
- 최근에는 사이킷런을 이용한 머신러닝과 rest api에 대해서 공부를 진행하고 있습니다.
+ 자동화하는 것을 좋아하고 최근 클라우드 서비스에 관심을 가지고 사용해보는 시도를 하는 중입니다.
  
  notion : https://magical-fluorine-7a0.notion.site/STUDY-686ca7a716254353aa6bf5330c38cb0c
 
@@ -15,13 +15,12 @@ used language
 * kotlin(하)
 * python(하) 
 * c/c++(중)
-
  
 Interested
 ---
  - Using with django, spring
  - Web server(backend)
- - kubernates
+ - aws
 
 status
 ---
