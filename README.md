@@ -1,3 +1,6 @@
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+
+
 Introduce
 ---
  귀찮은 거 싫어해서 평소에 게으르지만 개발만큼은 진심인 학생입니다.
@@ -18,9 +21,9 @@ used language
  
 Interested
 ---
- - Using with django, spring
- - Web server(backend)
- - aws
+ - Using with django, spring boot
+ - Web application server(backend)
+
 
 status
 ---
