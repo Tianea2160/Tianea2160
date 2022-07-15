@@ -1,34 +1,58 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Tianea&fontAlign=70&rotate=13&fontAlignY=25&desc=All%20Is%20Well&descAlign=70.&descAlignY=44)
 
+<h3 align="center" >🛠 Tech Stack 🛠</h3>
 
-Introduce
----
- 귀찮은 거 싫어해서 평소에 게으르지만 개발만큼은 진심인 학생입니다.
- 
- 개발 속도가 빠른 것보다 그 원리를 이해하고 코드 하나하나에 그 이유를 생각하고 가지려고 노력하는 중입니다.
- 
- 다양한 기술을 사용해보는 것을 좋아하고 자기 주도적으로 공부하고 프로젝트를 진행하는 성격을 가졌습니다.
+<p align="center"> Techs that I've used at least once </p>
 
- 최근에는 WebSocket과 AWS를 이용한 MSA 채팅 서버를 만드는 개인 프로젝트를 진행하고 있습니다.
- 
- notion : https://magical-fluorine-7a0.notion.site/blog-f850a6d526c3422aabc9f0cec442e604
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>
 
- 
-used language
----
-* java(중)
-* js(하)
-* kotlin(하)
-* c/c++(중)
- 
-Interested
----
- - Using with django, spring boot
- - Web application server(backend)
+<br>
+
+[//]: # (<h3 align="center">🪄 Blog 🪄</h3>)
+
+[//]: # ()
+
+[//]: # (<div align="center" style="text-align:center">)
+
+[//]: # ()
+
+[//]: # ([![Velog's GitHub stats]&#40;https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비&#41;]&#40;https://velog.io/@woo0_hooo&#41;)
+
+[//]: # ([![Velog's GitHub stats]&#40;https://velog-readme-stats.vercel.app/api?name=woo0_hooo&#41;]&#40;https://velog.io/@woo0_hooo&#41;)
+
+[//]: # ()
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # (<br>)
 
 
-status
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianea2160)](https://github.com/anuraghazra/github-readme-stats) 
+<h3 align="center"> 🌱 Me 🌱 </h3>
+<p align="center">
+  <a href="https://www.notion.so/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604" alt="blog"/></a>&nbsp
+  <a href="mailto:rhlehfndvkd7557@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rhlehfndvkd7557@gmail.com" alt="email"/></a>
+</p>
+<br>
+
+<h3 align="center"> Github Status </h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianea2160)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
