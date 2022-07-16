@@ -49,9 +49,7 @@
 <h3 align="center"> Github Status </h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianea2160)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Tianea2160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianea2160)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
