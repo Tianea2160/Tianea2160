@@ -49,7 +49,7 @@
 
 <h3 align="center"> 🌱 Me 🌱 </h3>
 <p align="center">
-  <a href="https://https://magical-fluorine-7a0.notion.site/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604" alt="blog"/></a>&nbsp
+  <a href="https://magical-fluorine-7a0.notion.site/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604" alt="blog"/></a>&nbsp
   <a href="mailto:rhlehfndvkd7557@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rhlehfndvkd7557@gmail.com" alt="email"/></a>
 </p>
 <br>
