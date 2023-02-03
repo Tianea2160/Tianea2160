@@ -13,9 +13,12 @@
 
 - 저는 Jo Hyun Jun 입니다.
 - Back-End Developer
-- 주로 사용하는 기술 스택은 Spring(Java) 입니다.
+- 주로 사용하는 기술 스택은 Spring(Java, Kotlin) 입니다.
 - 최근 DDD에 관심을 가지고 스터디를 진행하고 있습니다.
 - 코틀린 coroutine + webflux를 이용한 비동기 서버 개발에 관심을 가지고 토이 프로젝트를 진행하고 있습니다.
+
+#### 2023
+- 2023 겨울SW학교,SW예비학교 튜터 활동
 
 #### 2022
 - 현대산학연계 프로젝트(+졸업작품) 진행중(feat. [현대트랜시스](https://www.hyundai-transys.com/ko/main.do))
