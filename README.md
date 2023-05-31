@@ -43,5 +43,5 @@
 > - 2021 여름/겨울 SW 학교 튜터 활동
 
 ### Info
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianea2160&show_icons=true&theme=default&line_height=20&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tianea2160&count_private=true&theme=cobalt&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=7&theme=cobalt"/>
