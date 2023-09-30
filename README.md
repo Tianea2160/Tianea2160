@@ -13,9 +13,12 @@
 ### Contract
 
 <a href="https://tianea.notion.site/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604" alt="blog"/></a>
-<a href="mailto:rhlehfndvkd7557@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rhlehfndvkd7557@gmail.com" alt="email"/></a>
+<a href="mailto:hyunjun2087@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyunjun2087@gmail.com" alt="email"/></a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/%ED%98%84%EC%A4%80-%EC%A1%B0-2747a9245/)
 
+### Career
+- 2023.07.18 ARGO(techtaka) 산업기능요원 편입
+- 2023.07.10 [ARGO(techtaka) 입사](https://www.argoport.com/#FULFILLMENT)
 
 ### Projects
 - [Nimble](https://github.com/daldal-nimble/Nimble) - 나만의 러닝 코스 설계, 리뷰, 공유 플랫폼(비사이드 포텐데이 해커톤)
@@ -27,23 +30,10 @@
 - [MRP](https://github.com/Project-MPR) - 역주변 식당 추천 웹 서비스
 
 
-### TimeLine
-
-> #### 2023
-> - 07/10 Techtaka Warehouse Platform 입사
-> - 2023-01 참빛 설계학기 최우수상 수상
-> - IT 연합 동아리 DDD 9기(진행중)
-> - 비사이드 제 1회 포텐데이 해커톤 참가
-> - 제7회 산학연계SW프로젝트 총장상 수상
-> - 2023 겨울SW학교,SW예비학교 튜터 활동
->
-> #### 2022
-> - 2022 겨울 SW 학교 튜터 활동
->
-> #### 2021
-> - 2021-02 광운대 소프트웨어학부 수석
-> - 2021 여름/겨울 SW 학교 튜터 활동
-
 ### Info
+안녕하세요. 저는 Backend 개발자 조현준 입니다.<br/>
+저는 저의 코드를 통해서 일상의 불편함을 조금씩 해소하고 발전해나가서 결국에는 전체가 변화시키고자 노력하는 사람입니다.<br/>
+현재는 Warehouse Platform 회사에서 산업기능요원으로 대체복무 중 입니다.<br/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tianea2160&count_private=true&theme=cobalt&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=7&theme=cobalt"/>
