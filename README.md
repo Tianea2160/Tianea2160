@@ -1,39 +1,96 @@
-### Interest
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
+# 조현준 (Hyun-Jun Jo) - Backend Engineer
+
+## About Me
+
+I'm a backend developer focused on solving everyday inconveniences through code. My goal is to make incremental improvements that eventually lead to significant transformations. Currently serving as an industrial technical personnel at a Warehouse Platform company.
+
+- 🎓 Kwangwoon University, Software Department (4th year, on leave)
+- 📧 Email: hyunjun2087@gmail.com
+- 📱 GitHub: [Tianea2160](https://github.com/Tianea2160)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/%ED%98%84%EC%A4%80-%EC%A1%B0-2747a9245/)
+- 📝 Blog: [Technical Blog](https://tianea.hashnode.dev/)
+
+## Tech Stack
+
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F) <br>
-![fastapi](https://img.shields.io/badge/FastAPI-049593?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0067A3?style=for-the-badge&logo=python&logoColor=white)<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F)
+![Python](https://img.shields.io/badge/Python-0067A3?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-049593?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
 
+## Career
 
-### Contract
+- **2023.07.10 - Present**: Software Engineer at [Techtaka (ARGO)](https://www.argoport.com/#FULFILLMENT)
+  - Serving as an industrial technical personnel
+  - Contributed to securing Series B and C investments from Altos Ventures through warehouse process improvements
+  - Improved operational efficiency by optimizing work division strategies
+  - Implemented distributed lock system and Kafka-based performance improvements
 
-<a href="https://tianea.notion.site/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Tianea-s-Blog-f850a6d526c3422aabc9f0cec442e604" alt="blog"/></a>
-<a href="mailto:hyunjun2087@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyunjun2087@gmail.com" alt="email"/></a>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/taeyang-jin/)](https://www.linkedin.com/in/%ED%98%84%EC%A4%80-%EC%A1%B0-2747a9245/)
+## Key Projects at Techtaka
 
-### Career
-- 2023.07.18 ARGO(techtaka) 산업기능요원 편입
-- 2023.07.10 [ARGO(techtaka) 입사](https://www.argoport.com/#FULFILLMENT)
+### 📦 Logistics Picking Work Lifecycle Improvement
+- **Problem**: Order cancellations required product restocking, causing resource waste
+- **Solution**: Implemented delayed work creation based on remaining work counts and improved process flow
+- **Impact**:
+  - Secured ~2 hours 10 minutes of order cancellation time without restocking per order
+  - Despite 35% increase in order cancellations, achieved 7.8% decrease in restocking requirements
+  - Designed business architecture using Choreography-based Saga pattern for inventory location recommendations
 
-### Projects
-- [Nimble](https://github.com/daldal-nimble/Nimble) - 나만의 러닝 코스 설계, 리뷰, 공유 플랫폼(비사이드 포텐데이 해커톤)
+### 🚚 Single Product Movement Optimization System
+- **Problem**: Inefficient sorting without limits on product types per container
+- **Solution**: Experimented with expanding maximum product types from 1 to 3, then 5 per container
+- **Impact**:
+  - Reduced average processing time per order by 42.86% (70 seconds to 40 seconds)
+  - Decreased collection tasks by 78.9% (2,388 to 505)
+  - Achieved daily workforce reduction of approximately 1.33 workers
 
-- [Ooi](https://github.com/SANHAK-HYUNDAI) - Naver Cafe 게시글과 차량 정비소 데이터 사이의 분석 대시보드 서비스(7th 산학협력 프로젝트, 대학 총장상)
+### 🔒 Distributed Lock Annotation-Based Duplication Prevention
+- **Problem**: Occasional duplicate work completion events causing inventory double-counting
+- **Solution**: Implemented Redis-based distributed lock with custom annotation (@DistributedLock)
+- **Impact**:
+  - Completely eliminated duplicate processing issues
+  - Currently used in more than 4 domains across the system
+  - Enhanced developer productivity by simplifying lock implementation
 
-- [KW Dormitory](https://github.com/kw-notice) - 기숙사 공지사항 모니터링 서비스
+### ⚡ Shipping Instruction Processing System Optimization
+- **Problem**: Processing 300 orders took 10-15 minutes, exceeding client timeout (1 minute)
+- **Solution**: Transformed synchronous API calls to asynchronous Kafka-based processing
+- **Impact**:
+  - Reduced API response time from ~12 minutes to ~1 second (99.86% decrease)
+  - Decreased actual data processing time from 10-12 minutes to ~3 seconds (up to 97.5% reduction)
+  - Eliminated POD CPU overload issues (previously reaching 100%)
 
-- [MRP](https://github.com/Project-MPR) - 역주변 식당 추천 웹 서비스
+### 📅 Same-Day Receipt Processing Capacity Management
+- **Problem**: Lack of volume management system for same-day receipts, risking SLA violations
+- **Solution**: Led the development of a processing type capacity management system
+- **Impact**:
+  - Prevented center overload by blocking excess orders during 31% of operating days
+  - Satisfied Naver direct contract SLA and improved customer satisfaction
+  - Enabled data-driven resource allocation through receipt calendar functionality
 
+## Personal Projects
 
-### Info
-안녕하세요. 저는 Backend 개발자 조현준 입니다.<br/>
-저는 저의 코드를 통해서 일상의 불편함을 조금씩 해소하고 발전해나가서 결국에는 전체가 변화시키고자 노력하는 사람입니다.<br/>
-현재는 Warehouse Platform 회사에서 산업기능요원으로 대체복무 중 입니다.<br/>
+- [**Nimble**](https://github.com/daldal-nimble/Nimble): Platform for designing, reviewing, and sharing personal running courses (B-side Potent Day Hackathon)
+
+- [**Ooi**](https://github.com/SANHAK-HYUNDAI): Dashboard service analyzing data between Naver Cafe posts and vehicle repair shops (7th Industry-Academic Cooperation Project, University President's Award)
+
+- [**KW Dormitory**](https://github.com/kw-notice): Dormitory notification monitoring service
+
+- [**MRP**](https://github.com/Project-MPR): Restaurant recommendation web service for locations near subway stations
+
+## Certifications & Activities
+
+- AWS Certified Practitioner
+- Techtaka In-house Hackathon 1st Place: In-house Hackathon Newspaper
+- DDD IT Union Club 9th Generation
+
+## GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tianea2160&count_private=true&theme=cobalt&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=7&theme=cobalt"/>
