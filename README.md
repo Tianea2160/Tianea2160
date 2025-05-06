@@ -28,7 +28,7 @@ I'm a backend developer focused on solving everyday inconveniences through code.
 
 - **2023.07.10 - Present**: Software Engineer at [Techtaka (ARGO)](https://www.argoport.com/#FULFILLMENT)
   - Serving as an industrial technical personnel
-  - Contributed to securing Series B and C investments from Altos Ventures through warehouse process improvements
+  - Contributed to securing Series B investments from Altos Ventures through warehouse process improvements
   - Improved operational efficiency by optimizing work division strategies
   - Implemented distributed lock system and Kafka-based performance improvements
 
