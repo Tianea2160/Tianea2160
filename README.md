@@ -1,96 +1,89 @@
-# 조현준 (Hyun-Jun Jo) - Backend Engineer
+## Hyun-Jun Jo
 
-## About Me
+Software Engineer with experience building warehouse logistics platforms at scale. Focused on event-driven architecture, distributed systems, and backend reliability.
 
-I'm a backend developer focused on solving everyday inconveniences through code. My goal is to make incremental improvements that eventually lead to significant transformations. Currently serving as an industrial technical personnel at a Warehouse Platform company.
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hyunjun2087@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%84%EC%A4%80-%EC%A1%B0-2747a9245/)
+[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://tianea.hashnode.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tianea2160)
 
-- 🎓 Kwangwoon University, Software Department (4th year, on leave)
-- 📧 Email: hyunjun2087@gmail.com
-- 📱 GitHub: [Tianea2160](https://github.com/Tianea2160)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/%ED%98%84%EC%A4%80-%EC%A1%B0-2747a9245/)
-- 📝 Blog: [Technical Blog](https://tianea.hashnode.dev/)
+---
 
-## Tech Stack
+### Tech Stack
 
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F)
-![Python](https://img.shields.io/badge/Python-0067A3?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-049593?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
+**Backend**
 
-## Career
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-- **2023.07.10 - 2025.08.05**: Software Engineer at [Techtaka (ARGO)](https://www.argoport.com/#FULFILLMENT)
-  - Serving as an industrial technical personnel
-  - Contributed to securing Series B investments from Altos Ventures through warehouse process improvements
-  - Improved operational efficiency by optimizing work division strategies
-  - Implemented distributed lock system and Kafka-based performance improvements
+**Infrastructure**
 
-## Key Projects at Techtaka
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 📦 Logistics Picking Work Lifecycle Improvement
-- **Problem**: Order cancellations required product restocking, causing resource waste
-- **Solution**: Implemented delayed work creation based on remaining work counts and improved process flow
-- **Impact**:
-  - Secured ~2 hours 10 minutes of order cancellation time without restocking per order
-  - Despite 35% increase in order cancellations, achieved 7.8% decrease in restocking requirements
-  - Designed business architecture using Choreography-based Saga pattern for inventory location recommendations
+---
 
-### 🚚 Single Product Movement Optimization System
-- **Problem**: Inefficient sorting without limits on product types per container
-- **Solution**: Experimented with expanding maximum product types from 1 to 3, then 5 per container
-- **Impact**:
-  - Reduced average processing time per order by 42.86% (70 seconds to 40 seconds)
-  - Decreased collection tasks by 78.9% (2,388 to 505)
-  - Achieved daily workforce reduction of approximately 1.33 workers
+### Career & Work
 
-### 🔒 Distributed Lock Annotation-Based Duplication Prevention
-- **Problem**: Occasional duplicate work completion events causing inventory double-counting
-- **Solution**: Implemented Redis-based distributed lock with custom annotation (@DistributedLock)
-- **Impact**:
-  - Completely eliminated duplicate processing issues
-  - Currently used in more than 4 domains across the system
-  - Enhanced developer productivity by simplifying lock implementation
+**[Techtaka (ARGO)](https://www.argoport.com/)** -- Software Engineer, Warehouse Platform Team
 
-### ⚡ Shipping Instruction Processing System Optimization
-- **Problem**: Processing 300 orders took 10-15 minutes, exceeding client timeout (1 minute)
-- **Solution**: Transformed synchronous API calls to asynchronous Kafka-based processing
-- **Impact**:
-  - Reduced API response time from ~12 minutes to ~1 second (99.86% decrease)
-  - Decreased actual data processing time from 10-12 minutes to ~3 seconds (up to 97.5% reduction)
-  - Eliminated POD CPU overload issues (previously reaching 100%)
+![2023.07 - 2025.08](https://img.shields.io/badge/2023.07_--_2025.08-181717?style=for-the-badge)
 
-### 📅 Same-Day Receipt Processing Capacity Management
-- **Problem**: Lack of volume management system for same-day receipts, risking SLA violations
-- **Solution**: Led the development of a processing type capacity management system
-- **Impact**:
-  - Prevented center overload by blocking excess orders during 31% of operating days
-  - Satisfied Naver direct contract SLA and improved customer satisfaction
-  - Enabled data-driven resource allocation through receipt calendar functionality
+Logistics startup warehouse management system backend. Contributed to Series B investment from Altos Ventures.
 
-## Personal Projects
+> **Same-Day Receipt Capacity Management**
+> `2024.11 - 2025.01`
+>
+> Led squad (6-person team) to build capacity management system for Naver partnership. Blocked excess orders on **31% of operating days**, satisfying Naver SLA.
 
-- [**Nimble**](https://github.com/daldal-nimble/Nimble): Platform for designing, reviewing, and sharing personal running courses (B-side Potent Day Hackathon)
+> **Picking Work Lifecycle Improvement**
+> `2024.06 - 2024.11`
+>
+> Delayed work creation with Kafka real-time processing. **Reduced restocking by 40%** despite increased order cancellations.
 
-- [**Ooi**](https://github.com/SANHAK-HYUNDAI): Dashboard service analyzing data between Naver Cafe posts and vehicle repair shops (7th Industry-Academic Cooperation Project, University President's Award)
+> **Distributed Lock Module**
+> `2024.01`
+>
+> Redis-based `@DistributedLock` annotation. **Eliminated duplicate processing errors** across 4+ domains.
 
-- [**KW Dormitory**](https://github.com/kw-notice): Dormitory notification monitoring service
+> **Shipping Instruction Optimization**
+> `2023 - 2024`
+>
+> Migrated synchronous processing to Kafka async. API response time from ~12 min to ~1 sec (**99.86% decrease**).
 
-- [**MRP**](https://github.com/Project-MPR): Restaurant recommendation web service for locations near subway stations
+---
 
-## Certifications & Activities
+### Education & Certifications
 
-- AWS Certified Practitioner
-- Techtaka In-house Hackathon 1st Place: In-house Hackathon Newspaper
-- DDD IT Union Club 9th Generation
+**Kwangwoon University** -- Software Department (2020.03 - 2026.02, GPA 4.15 / 4.5)
 
-## GitHub Stats
+![AWS](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tianea2160&count_private=true&theme=cobalt&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=7&theme=cobalt"/>
+- Techtaka In-house Hackathon 1st Place
+- DDD IT Union Club 9th Gen
+
+---
+
+### GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tianea2160&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tianea2160&show_icons=true&count_private=true&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tianea2160&show_icons=true&count_private=true&hide_border=true&theme=default" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=6&hide_border=true&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=6&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=6&hide_border=true&theme=default" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Tianea2160&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Tianea2160&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Tianea2160&hide_border=true" />
+</picture>
