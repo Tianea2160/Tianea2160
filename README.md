@@ -30,39 +30,29 @@ Software Engineer with experience building warehouse logistics platforms at scal
 
 ### Career & Work
 
+```mermaid
+gantt
+    title Career & Education Timeline
+    dateFormat YYYY-MM
+    axisFormat %Y-%m
+
+    section Education
+        Kwangwoon University: done, 2020-03, 2023-06
+        Kwangwoon University: done, 2025-09, 2026-02
+
+    section Service
+        Industrial Functional Personnel: done, 2023-07, 2025-06
+
+    section Career
+        Techtaka: done, 2023-07, 2025-08
+        Directional: active, 2026-04, 2026-05
+```
+
+---
+
 **[Directional](https://directional.net/)** -- Backend Engineer
 
-![2026.04 - Present](https://img.shields.io/badge/2026.04_--_Present-181717?style=for-the-badge)
-
----
-
 **[Techtaka (ARGO)](https://www.argoport.com/)** -- Software Engineer, Warehouse Platform Team
-
-![2023.07 - 2025.08](https://img.shields.io/badge/2023.07_--_2025.08-181717?style=for-the-badge)
-
-Logistics startup warehouse management system backend. Contributed to Series B investment from Altos Ventures.
-
-> **Same-Day Receipt Capacity Management**
-> `2024.11 - 2025.01`
->
-> Led squad (6-person team) to build capacity management system for Naver partnership. Blocked excess orders on **31% of operating days**, satisfying Naver SLA.
-
-> **Picking Work Lifecycle Improvement**
-> `2024.06 - 2024.11`
->
-> Delayed work creation with Kafka real-time processing. **Reduced restocking by 40%** despite increased order cancellations.
-
-> **Distributed Lock Module**
-> `2024.01`
->
-> Redis-based `@DistributedLock` annotation. **Eliminated duplicate processing errors** across 4+ domains.
-
-> **Shipping Instruction Optimization**
-> `2023 - 2024`
->
-> Migrated synchronous processing to Kafka async. API response time from ~12 min to ~1 sec (**99.86% decrease**).
-
----
 
 ### Education & Certifications
 
@@ -78,16 +68,16 @@ Logistics startup warehouse management system backend. Contributed to Series B i
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tianea2160&show_icons=true&count_private=true&hide_border=true&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tianea2160&show_icons=true&count_private=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tianea2160&show_icons=true&count_private=true&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tianea2160&show_icons=true&count_private=true&hide_border=true&theme=default"  alt=""/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=6&hide_border=true&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=6&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=6&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianea2160&layout=compact&langs_count=6&hide_border=true&theme=default"  alt=""/>
 </picture>
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Tianea2160&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Tianea2160&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=Tianea2160&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Tianea2160&hide_border=true"  alt=""/>
 </picture>
