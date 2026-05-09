@@ -30,6 +30,12 @@ Software Engineer with experience building warehouse logistics platforms at scal
 
 ### Career & Work
 
+**[Directional](https://directional.net/)** -- Backend Engineer
+
+![2026.04 - Present](https://img.shields.io/badge/2026.04_--_Present-181717?style=for-the-badge)
+
+---
+
 **[Techtaka (ARGO)](https://www.argoport.com/)** -- Software Engineer, Warehouse Platform Team
 
 ![2023.07 - 2025.08](https://img.shields.io/badge/2023.07_--_2025.08-181717?style=for-the-badge)
@@ -61,8 +67,6 @@ Logistics startup warehouse management system backend. Contributed to Series B i
 ### Education & Certifications
 
 **Kwangwoon University** -- Software Department (2020.03 - 2026.02, GPA 4.15 / 4.5)
-
-![AWS](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 - Techtaka In-house Hackathon 1st Place
 - DDD IT Union Club 9th Gen
