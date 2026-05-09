@@ -30,23 +30,11 @@ Software Engineer with experience building warehouse logistics platforms at scal
 
 ### Career & Work
 
-```mermaid
-gantt
-    title Career & Education Timeline
-    dateFormat YYYY-MM
-    axisFormat %Y-%m
-
-    section Education
-        Kwangwoon University: done, 2020-03, 2023-06
-        Kwangwoon University: done, 2025-09, 2026-02
-
-    section Service
-        Industrial Functional Personnel: done, 2023-07, 2025-06
-
-    section Career
-        Techtaka: done, 2023-07, 2025-08
-        Directional: active, 2026-04, 2026-05
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/timeline.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/timeline.light.svg">
+  <img alt="Career & Education Timeline" src="assets/timeline.light.svg">
+</picture>
 
 ---
 
